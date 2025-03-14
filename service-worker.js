@@ -4,7 +4,7 @@ const APP_PREFIX = "product-inventory-";
 // Include all icons and critical assets
 const urlsToCache = [
   "./",
-  "./mainVersion.html",
+  "./index.html",
   "./manifest.json",
   "./icons/logo-72.png",
   "./icons/logo-96.png",
